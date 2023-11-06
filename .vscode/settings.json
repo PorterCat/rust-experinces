@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "/home/portercat/rust/SaPDA-course/Cargo.toml",
+    ],
+
+    "rust-analyzer.semanticHighlighting.punctuation.enable": true,
+    "rust-analyzer.showUnlinkedFileNotification": false,
+}
